@@ -14,7 +14,7 @@ app.title("BÍ MẬT HÀNG ĐẦU")
 title_label = Label(app, text="Nhấn nút màu đỏ để tìm tên điệp viên của bạn")
 title_label.pack()
 
-button = Button(app, text="Tell me!", command=choose_name, bg="red", font=("Arial", 14))
+button = Button(app, text="Nói cho tôi!", command=choose_name, bg="red", font=("Arial", 14))
 button.pack()
 
 name_var = StringVar()
