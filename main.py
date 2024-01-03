@@ -2,7 +2,8 @@
 # import bai_2
 # import bai_3
 # import bai_4
-import bai_5
+# import bai_5
+import bai_6
 
 # dự án Wanted Poster
 # bai_1
@@ -13,4 +14,7 @@ import bai_5
 # dự án Tic-Tac-Toe
 # bai_4
 # dự án Destroy the dots
-bai_5
+# bai_5
+# dự án Flood-it
+bai_6
+
