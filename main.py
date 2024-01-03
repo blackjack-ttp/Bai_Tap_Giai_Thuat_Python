@@ -3,7 +3,8 @@
 # import bai_3
 # import bai_4
 # import bai_5
-import bai_6
+# import bai_6
+import bai_7
 
 # dự án Wanted Poster
 # bai_1
@@ -16,5 +17,7 @@ import bai_6
 # dự án Destroy the dots
 # bai_5
 # dự án Flood-it
-bai_6
+# bai_6
+# dự án Emoji match
+bai_7
 
