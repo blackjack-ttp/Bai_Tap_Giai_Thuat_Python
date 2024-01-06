@@ -5,7 +5,8 @@
 # import bai_5
 # import bai_6
 # import bai_7
-import bai_8
+# import bai_8
+import bai_9
 
 # dự án Wanted Poster
 # bai_1
@@ -22,5 +23,7 @@ import bai_8
 # dự án Emoji match
 # bai_7
 # dự án Print
-bai_8
+# bai_8
+# dự án Contact Book
+bai_9
 
