@@ -7,7 +7,8 @@
 # import bai_7
 # import bai_8
 # import bai_9
-import bai_10
+# import bai_10
+import bai_11
 
 # dự án Wanted Poster
 # bai_1
@@ -28,5 +29,6 @@ import bai_10
 # dự án Contact Book
 # bai_9
 # dự án Todolist
-bai_10
+# bai_10
+bai_11
 
