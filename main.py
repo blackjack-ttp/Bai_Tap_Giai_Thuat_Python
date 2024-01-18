@@ -8,7 +8,8 @@
 # import bai_8
 # import bai_9
 # import bai_10
-import bai_11
+# import bai_11
+import bai_12
 
 # dự án Wanted Poster
 # bai_1
@@ -30,5 +31,8 @@ import bai_11
 # bai_9
 # dự án Todolist
 # bai_10
-bai_11
+# dự án rắn săn mồi
+# bai_11
+# dự án dùng vòng lặp for vẽ hình phức tạp
+bai_12
 
